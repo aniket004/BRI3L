@@ -57,4 +57,4 @@ Location for the learned model for illusion detection: Supplementary_BRI3L/Pytho
 
 Location for the learned model for illusion localization: Supplementary_BRI3L/Python_code_for_deep_models/model-tgs-salt_SSIM_epoch_25_diff_train_val.h5
 
-We have provided a demo to load and run the dataset with our trained model and also exhibits some illustrations and visualization of the illusions and its predictions.
+We have provided a demo to load and run the dataset with our trained model and also exhibits some illustrations and visualization of the illusions and its predictions in the colab notebook: https://colab.research.google.com/drive/1g4Ov5Cbx4nIzd-QxabmtuFC9A-rMdrO0#scrollTo=MZbaM0Cn05MK
