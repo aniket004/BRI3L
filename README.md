@@ -4,7 +4,7 @@ Description: This is a dataset of brightness illusion images, containing : 1) He
 
 <center>
 <img src="https://github.com/aniket004/BRI3L/blob/main/ill_example_supp.png" width="512"/>
-<\center>
+</center>
 
 # Download dataset:
 
