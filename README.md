@@ -25,7 +25,7 @@ unzip dataset:
 We perform the task of illusion detection, localization and generation.
 
 <p align="center">
-  <img width="200" height="200" src="https://github.com/aniket004/BRI3L/blob/main/technique1.png">
+  <img width="460" height="200" src="https://github.com/aniket004/BRI3L/blob/main/technique1.png">
 </p>
 
 # Illusion detection: 
