@@ -25,7 +25,7 @@ unzip dataset:
 We perform the task of illusion detection, localization and generation.
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/aniket004/BRI3L/blob/main/technique1.png">
+  <img src="https://github.com/aniket004/BRI3L/blob/main/technique1.png">
 </p>
 
 # Illusion detection: 
@@ -43,14 +43,14 @@ The following notebook generates illusions using diffusion models:  illusion_dif
 
 Some of the diffusion model generated illusions are shown below.
 <p align="center">
-  <img width="460" height="300" src="https://github.com/aniket004/BRI3L/blob/main/">
+  <img width="460" height="300" src="https://github.com/aniket004/BRI3L/blob/main/ill_diffusion_1.png">
 </p>
 
 # Psychometric evaluation:
 
 We performed psychometric evalution of the propposed dataset using 2AFC experiments with seven human observers. Some of the results are shown below.
 <p align="center">
-  <img width="460" height="300" src="https://github.com/aniket004/BRI3L/blob/main/psy_curve_sbc_white.png">
+  <img src="https://github.com/aniket004/BRI3L/blob/main/psy_curve_sbc_white.png">
 </p>
 
 # Gradcam Visualization of network layer response
@@ -58,7 +58,7 @@ We performed psychometric evalution of the propposed dataset using 2AFC experime
 We observe the GradCam visualization of different layer responses for the illusions, to get interpretable results. Some of the visualizations are shown below.
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/aniket004/BRI3L/blob/main/white_gradcam.png">
+  <img src="https://github.com/aniket004/BRI3L/blob/main/white_gradcam.png">
 </p>
 
 # Instructions step by step:
