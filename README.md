@@ -11,7 +11,10 @@ Download dataset:
 !wget https://www.cis.jhu.edu/~aroy/Supplementary_BRI3L.zip
 ```
 
-unzip dataset: !unzip Supplementary_BRI3L.zip
+unzip dataset:
+```
+!unzip Supplementary_BRI3L.zip
+```
 
 # Tasks:
 
@@ -35,26 +38,32 @@ The following notebook generates illusions using diffusion models:  illusion_dif
 
 Load the dataset and code:
 
-a. Download dataset: !wget https://www.cis.jhu.edu/~aroy/Supplementary_BRI3L.zip
+a. Download dataset:
+```
+!wget https://www.cis.jhu.edu/~aroy/Supplementary_BRI3L.zip
+```
 
-b. unzip dataset: !unzip Supplementary_BRI3L.zip
+b. unzip dataset: 
+```
+!unzip Supplementary_BRI3L.zip
+```
 
 # For illusion detection: (using PyTorch) (classify illusion vs non-illusion)
-
-run: python Supplementary_BRI3L/Python_code_for_deep_models/illusion_classification_resnet_18.py
-
+```
+python Supplementary_BRI3L/Python_code_for_deep_models/illusion_classification_resnet_18.py
+```
 # For illusion vs natural image classification: (using PyTorch) 
-
-run: python Supplementary_BRI3L/Python_code_for_deep_models/illusion_natural_img_resnet_18.py
-
+```
+python Supplementary_BRI3L/Python_code_for_deep_models/illusion_natural_img_resnet_18.py
+```
 # For illusion localization: (using keras and tensorflow) 
-
-run: python Supplementary_BRI3L/Python_code_for_deep_models/unet_illusion_localization.py
-
+```
+python Supplementary_BRI3L/Python_code_for_deep_models/unet_illusion_localization.py
+```
 # Illusion localization test on single image: (using keras and tensorflow) 
-
-run: python Supplementary_BRI3L/Python_code_for_deep_models/test_on_single_img.py
-
+```
+python Supplementary_BRI3L/Python_code_for_deep_models/test_on_single_img.py
+```
 # Location:
 
 Location for illusion identification task: Supplementary_BRI3L/BRI3L_dataset/detection/new_illusion_classification/
