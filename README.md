@@ -2,6 +2,8 @@
 
 Description: This is a dataset of brightness illusion images, containing : 1) Hermann grid, 2) Simultaneous Brightness Contrast, 3) White’s illusion, 4) Grid illusion, and 5) Induced Grating illusion. There are 22,366 illusion images and corresponding ground-truth localization mask.
 
+![alt text] (https://github.com/aniket004/BRI3L/edit/main/ill_example_supp.png)
+
 # Download dataset:
 
 The dataset is hosted in the link: https://www.cis.jhu.edu/~aroy/Supplementary_BRI3L.zip
