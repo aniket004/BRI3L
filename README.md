@@ -22,7 +22,11 @@ unzip dataset:
 
 # Tasks:
 
-We perform the task of illusion detection and localization.
+We perform the task of illusion detection, localization and generation.
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/aniket004/BRI3L/blob/main/technique1.png">
+</p>
 
 # Illusion detection: 
 
@@ -37,6 +41,25 @@ For this task, we perform illusory patch localization for the dataset.
 We also generate illusions using text-to-image and image-to-image diffusion models. For generation, we use the diffusers library. 
 The following notebook generates illusions using diffusion models:  illusion_diffusion.ipynb
 
+Some of the diffusion model generated illusions are shown below.
+<p align="center">
+  <img width="460" height="300" src="https://github.com/aniket004/BRI3L/blob/main/">
+</p>
+
+# Psychometric evaluation:
+
+We performed psychometric evalution of the propposed dataset using 2AFC experiments with seven human observers. Some of the results are shown below.
+<p align="center">
+  <img width="460" height="300" src="https://github.com/aniket004/BRI3L/blob/main/psy_curve_sbc_white.png">
+</p>
+
+# Gradcam Visualization of network layer response
+
+We observe the GradCam visualization of different layer responses for the illusions, to get interpretable results. Some of the visualizations are shown below.
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/aniket004/BRI3L/blob/main/white_gradcam.png">
+</p>
 
 # Instructions step by step:
 
