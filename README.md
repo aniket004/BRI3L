@@ -6,7 +6,11 @@ Description: This is a dataset of brightness illusion images, containing : 1) He
 
 The dataset is hosted in the link: https://www.cis.jhu.edu/~aroy/Supplementary_BRI3L.zip
 
-Download dataset: !wget https://www.cis.jhu.edu/~aroy/Supplementary_BRI3L.zip
+Download dataset:
+```
+!wget https://www.cis.jhu.edu/~aroy/Supplementary_BRI3L.zip
+```
+
 unzip dataset: !unzip Supplementary_BRI3L.zip
 
 # Tasks:
