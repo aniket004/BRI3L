@@ -50,7 +50,7 @@ Some of the diffusion model generated illusions are shown below.
 
 We performed psychometric evalution of the propposed dataset using 2AFC experiments with seven human observers. Some of the results are shown below.
 <p align="center">
-  <img width="300" height="300" src="https://github.com/aniket004/BRI3L/blob/main/psy_curve_sbc_white.png">
+  <img height="300" src="https://github.com/aniket004/BRI3L/blob/main/psy_curve_sbc_white.png">
 </p>
 
 # Gradcam Visualization of network layer response
@@ -58,7 +58,7 @@ We performed psychometric evalution of the propposed dataset using 2AFC experime
 We observe the GradCam visualization of different layer responses for the illusions, to get interpretable results. Some of the visualizations are shown below.
 
 <p align="center">
-  <img width="3000" height="300" src="https://github.com/aniket004/BRI3L/blob/main/white_gradcam.png">
+  <img height="300" src="https://github.com/aniket004/BRI3L/blob/main/white_gradcam.png">
 </p>
 
 # Instructions step by step:
