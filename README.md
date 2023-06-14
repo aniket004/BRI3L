@@ -94,8 +94,21 @@ python Supplementary_BRI3L/Python_code_for_deep_models/test_on_single_img.py
 # Location:
 
 Location for illusion identification task: Supplementary_BRI3L/BRI3L_dataset/detection/new_illusion_classification/
+
 Location for illusion localization task: Supplementary_BRI3L/BRI3L_dataset/Localization/ill_Loc/
+
 Location for the learned model for illusion detection: Supplementary_BRI3L/Python_code_for_deep_models/resnet_illusion_detection.t7
+
 Location for the learned model for illusion localization: Supplementary_BRI3L/Python_code_for_deep_models/model-tgs-salt_SSIM_epoch_25_diff_train_val.h5
 
 We have provided a demo to load and run the dataset with our trained model and also exhibits some illustrations and visualization of the illusions and its predictions in the colab notebook: https://colab.research.google.com/drive/1g4Ov5Cbx4nIzd-QxabmtuFC9A-rMdrO0#scrollTo=MZbaM0Cn05MK
+
+# Citations: 
+If you find our repository useful for your research, please consider citing our paper:
+```
+@article{roy2023bri3l,
+    author = {Roy, Aniket and Roy, Anirban and Mitra, Soma and Ghosh, Kuntal},
+    title = {BRI3L: A brightness illusion image dataset for identification and localization of regions of illusory perception},
+    year = {2023}
+}
+```
