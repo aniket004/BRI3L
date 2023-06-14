@@ -43,7 +43,7 @@ The following notebook generates illusions using diffusion models:  illusion_dif
 
 Some of the diffusion model generated illusions are shown below.
 <p align="center">
-  <img width="660" height="500" src="https://github.com/aniket004/BRI3L/blob/main/ill_diffusion_1.png">
+  <img height="500" src="https://github.com/aniket004/BRI3L/blob/main/ill_diffusion_1.png">
 </p>
 
 # Psychometric evaluation:
